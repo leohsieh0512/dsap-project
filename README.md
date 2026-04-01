@@ -22,9 +22,9 @@ sum、max、min 函式
 ### 時程規劃
 <!-- 各週預計完成的進度 -->
 Week 7：決定題目與規劃功能
-Week 9 ~ Week 10：完成新增成績與顯示成績功能
-Week 11：完成平均分數、最高分、最低分功能
-Week 12：完成 Proposal Report
+Week 9：完成新增成績與顯示成績功能
+Week 10：完成平均分數、最高分、最低分功能
+Week 11：完成 Proposal Report
 Week 14：完成 Final Report 與 Demo 影片
 ### 與課程的關聯
 <!-- 你的專題可能涉及哪些資料結構或演算法概念？為什麼？ -->
