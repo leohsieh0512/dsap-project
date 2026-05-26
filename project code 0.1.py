@@ -152,3 +152,4 @@ while True:
         print("程式結束")
         break
     else:
+        print("請輸入正確選項")
